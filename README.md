@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-![logo](https://github.com/kiranshidruk/kiranshidruk/blob/main/back-image2.png)
 <h1 align="center">Hi 👋, I'm Kiran Shidruk</h1>
 <h3 align="center">Data Scientist | AI/ML Engineer | LLM & AI Agent Enthusiast</h3>
 
