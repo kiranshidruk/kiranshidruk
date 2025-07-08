@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![logo](https://github.com/kiranshidruk/kiranshidruk/blob/main/back-image.webp)
+![logo](https://github.com/kiranshidruk/kiranshidruk/blob/main/back-image1.avif)
 <h1 align="center">Hi 👋, I'm Kiran Shidruk</h1>
 <h3 align="center">Data Scientist | AI/ML Engineer | LLM & AI Agent Enthusiast</h3>
 
