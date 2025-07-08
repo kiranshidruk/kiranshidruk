@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranshidruk&label=Profile%20views&color=0e75b6&style=flat" alt="kiranshidruk" /> </p>
 
-- 🎓 **Master’s in AI & ML @ Drexel University** (GPA: 3.92/4.0)
+- 🎓 **Master’s in AI & ML @ Drexel University**
 - 💻 **AI Research Intern @ Drexel CCI**
 - 🚀 Building scalable solutions using LLMs, AI Agents, and Advanced Machine Learning
 - 👨‍💻 All of my projects are available at [https://github.com/kiranshidruk](https://github.com/kiranshidruk)
