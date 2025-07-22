@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💻 **AI Research Intern @ Drexel CCI**
 - 🚀 Building scalable solutions using LLMs, AI Agents, and Advanced Machine Learning
 - 👨‍💻 All of my projects are available at [https://github.com/kiranshidruk](https://github.com/kiranshidruk)
-- 📫 Reach me at **kus26@drexel.edu or kiranshidruk27@gmail.com**
+- 📫 Reach me at **kiran.shidruk.us@gmail.com or kus26@drexel.edu**
 
 ---
 
