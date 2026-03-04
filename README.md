@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranshidruk&label=Profile%20views&color=0e75b6&style=flat" alt="kiranshidruk" /> </p>
 
 - 🎓 **Master’s in AI & ML @ Drexel University**
-- 💻 **AI Research Intern @ Drexel CCI**
+- 💻 **AI/ML Engineer @ Shipcube LLC**
 - 🚀 Building scalable solutions using LLMs, AI Agents, and Advanced Machine Learning
 - 👨‍💻 All of my projects are available at [https://github.com/kiranshidruk](https://github.com/kiranshidruk)
 - 📫 Reach me at **kiran.shidruk.us@gmail.com or kus26@drexel.edu**
